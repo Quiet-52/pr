@@ -1,0 +1,16 @@
+C:\Users\User_10\source\repos\Таблица\bin\Debug\TestDB.mdf
+C:\Users\User_10\source\repos\Таблица\bin\Debug\TestDB_log.ldf
+C:\Users\User_10\source\repos\Таблица\bin\Debug\Таблица.exe.config
+C:\Users\User_10\source\repos\Таблица\bin\Debug\Таблица.exe
+C:\Users\User_10\source\repos\Таблица\bin\Debug\Таблица.pdb
+C:\Users\User_10\source\repos\Таблица\obj\Debug\Таблица.csprojAssemblyReference.cache
+C:\Users\User_10\source\repos\Таблица\obj\Debug\Таблица.Form1.resources
+C:\Users\User_10\source\repos\Таблица\obj\Debug\Таблица.Properties.Resources.resources
+C:\Users\User_10\source\repos\Таблица\obj\Debug\Таблица.csproj.GenerateResource.cache
+C:\Users\User_10\source\repos\Таблица\obj\Debug\Таблица.csproj.CoreCompileInputs.cache
+C:\Users\User_10\source\repos\Таблица\obj\Debug\Таблица.exe
+C:\Users\User_10\source\repos\Таблица\obj\Debug\Таблица.pdb
+C:\Users\andre\Desktop\Таблица\obj\Debug\Таблица.exe
+C:\Users\andre\Desktop\Таблица\obj\Debug\Таблица.pdb
+E:\проект\Таблица\obj\Debug\Таблица.exe
+E:\проект\Таблица\obj\Debug\Таблица.pdb
